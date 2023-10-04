@@ -1,5 +1,5 @@
-autoscaling-group-image-id = "ami-08111162"
-autoscaling-group-instance-type = "t2.nano"
+autoscaling-group-image-id = "ami-053b0d53c279acc90"
+autoscaling-group-instance-type = "t2.micro"
 autoscaling-group-key-name = "MyKP.pem"
 autoscaling-group-maxsize = "1"
 autoscaling-group-minsize = "1"
